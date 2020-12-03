@@ -1,4 +1,4 @@
 # breaking-markdown
 looking to break ze markdown
 
-[Click Me](javascript:alert('xss'))
+[Click Me](https://duckduckgo.com)

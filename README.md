@@ -1,4 +1,4 @@
 # breaking-markdown
 looking to break ze markdown
 
-[Click Me](javascript:alert(1)//https://duckduckgo.com)
+[Click Me](data:text/html,base64,amF2YXNjcmlwdDphbGVydCgxKQ==)
